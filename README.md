@@ -12,4 +12,4 @@
 
   
  Welcome to follow my Official Account  
- ![QRcode](https://kyrieliu.cn/images/qrcode2.jpg)
+ <img alt="qrcode" src="https://kyrieliu.cn/images/qrcode2.jpg" width="300" />
